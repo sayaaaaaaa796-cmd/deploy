@@ -1,0 +1,7 @@
+{
+  "name": "vercel-auto-deploy",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
